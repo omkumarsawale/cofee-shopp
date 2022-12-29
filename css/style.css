@@ -1,0 +1,253 @@
+
+
+
+
+/* .https://www.shutterstock.com/image-vector/iced-coffee-pouring-down-into-takeaway-1086585476 */
+
+/* header-section */
+
+.bg-images{
+    background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/15396/120-SM618865.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-images .bg-img-btn {
+    padding: 14px 13px 18px 16px;
+    margin-bottom: 20px;
+    color: wheat;
+}
+h1.heading-one.Display-1.mt-4 {
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+.nav-item .nav-link{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: wheat;
+}
+ 
+a.navbar-brand.mx-auto.fs-4.text {
+    font-size: 40px;
+    /* text-decoration: auto; */
+    font-style: oblique;
+}
+
+.Always-amazing {
+    padding: 161px 0px 0px 4px;
+}
+
+.Great-variety{
+    
+        padding: 324px 0px 0px 0px;
+    width:50%;
+}
+
+.img-sec-three{
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px
+}
+
+
+.my-contain{
+    display: inline-block;
+
+}
+
+
+.two-bg-cup-images{
+  
+    background-image: url("https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+span{
+    font-size: 30px;
+}
+
+.food-img{
+    
+        height: 115px;
+        padding: -4px 0px 1px 0px;
+        width: 138px;
+   
+}
+
+
+
+ .para-caro{
+     margin: 0 0 1rem;
+    /* display: flex;   */
+    margin-top: 100px; 
+}
+
+button.owl-prev {
+    top: 102px;
+    position: absolute;
+    left: 0px;
+}
+i.fa-solid.fa-circle-chevron-left {
+    font-size: 46px;
+
+    color: whitesmoke;
+}
+i.fa-solid.fa-circle-chevron-left:hover{
+  color: orange;
+}
+i.fa-solid.fa-circle-chevron-right {
+    font-size: 46px;
+    color: whitesmoke;
+}
+i.fa-solid.fa-circle-chevron-right:hover{
+    color: orange;
+}
+
+button.owl-next {
+    top: 114px;
+    position: absolute;
+   right: 0px;
+}
+
+.bg-dark-black{
+    background-color: #000;
+}
+
+.bg-img-2{
+    background-image:url("https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.bg-images-3 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(172deg,#212529b3, #6c757d),url(https://d3nn873nee648n.cloudfront.net/900x600/19254/18-SM910008.jpg);
+}
+
+.about-bg-img{
+    clip-path: polygon(1% 0, 100% 3%, 79% 86%, 0 82%);
+
+}
+
+.bg-images-memu {
+    background-image: linear-gradient(#bab2b224,#000),url(https://d3nn873nee648n.cloudfront.net/900x600/16988/20-ES739496.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-images-header{
+background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/16318/120-SM689190.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-images-reservation{
+    background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/11377/220-SM333547.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .bg-condat{
+        background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/19709/1-SM956317.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+    .img-last{
+
+background-image: url("https://yevgenysim-turkey.github.io/touche/assets/img/38.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 700px;
+        width: 1200px;
+    }
+
+
+    .active{
+        color: orange;
+    }
+
+
+    @media all and (max-width:768px){
+        h1.heading-one.Display-1.mt-4 {
+            font-size: 49px;
+        }
+
+        h3.header-heading {
+            font-size: 19px;
+        }
+        p.heading-para.my-5 {
+            padding: 0px 15px 0px 26px;
+        }
+
+
+        .h5, h5 {
+            font-size: 1.25rem;
+            font-size: 17px;
+        }
+        .Always-amazing-1 {
+            padding: 0 0 0 28px;
+        }
+        .col-md-4.outdoor {
+            padding: 0 0 0 36px;
+            margin: -29px 10px 11px 1px;
+        }
+
+        h4.Great-variety {
+            margin: -269px 14px 2px 33px;
+        }
+        h4.Great-variety {
+            padding: 20px 11px 17px 41px;
+            /* margin: 0 0 0 -7px; */
+        }
+
+        .Success-lohh{
+            cursor: pointer;
+            padding: 7px 59px 15px 47px;
+            margin: 0 0 0 107px;
+        }
+
+        h1.w-50.fs-4.py-4.text-white {
+            padding: 4px 0 0 68px;
+            font-size: 14px;
+            /* width: 100%; */
+            margin: 0 0 -1px 16px;
+        }
+        section.py-5.bg-dark-black {
+            text-align: center;
+        }
+        .Subscribe-nnn{
+            padding: 0 1px 11px 0px;
+            margin: 0 0 0 44px;
+        }
+
+        a.btn.btn-outline-warning.px-3 {
+            margin: 0 0 9px 39px;
+        }
+
+        h6.text-center.text-white {
+            margin: 31px 2px 7px 4px;
+        }
+        .img-last {
+            width: 524px;
+            height: 120px;
+        }
+
+
+
+
+
+
+
+    }
